@@ -1,6 +1,10 @@
 # YelpCamp
 YelpCamp is a full-stack web application for sharing and reviewing campgrounds. Users can create accounts, post new campgrounds, upload images, view details, leave reviews, and interact with other users.
 
+## 🌐 Live Demo
+
+[Visit YelpCamp](https://yelpcamp-sij8.onrender.com/)
+
 ## 🚀 Features
 
 - User authentication with Passport.js
